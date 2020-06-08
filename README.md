@@ -1,6 +1,13 @@
 # workers-hello-world
 Learning how to use web and service workers
 
+### Setup instructions
+Make sure you have `npm` installed. Run
+```shell script
+$ npm i
+```
+to install the necessary dependencies (`express` to host a webserver).
+
 ### Run instructions
 ```shell script
 $ npm start
