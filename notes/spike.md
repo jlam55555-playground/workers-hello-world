@@ -11,12 +11,18 @@ Relevant:
 
 Benefits:
 - Relatively similar implementations across browsers if we wanted to port this to Firefox or Opera as well (see [this][3]) (probably not relevant to us if we deploy it in a uniform manner)
-- Can create an launch button that easy to access in the browser, to launch a modal/popover.
-- Same Notifications API as with the service workers.
+- Can create an launch button that easy to access in the browser, to launch a modal/popover
+- Same Notifications API as with the service workers
 
 Hurdles:
 - Harder to deploy
 - APIs not available in a normal web application
+- Requires some extra permissions in Chrome (e.g., allow extensions to run in the background, allow extension to run at all)
+
+Have to look into deploy methods:
+- Possible to create locally hosted repository (like Debian PPA?)
+- Possible do use drag-and-drop onto browser if not in developer mode?
+- Other???
 
 Resources:
 - [Getting started with Chrome extensions][7]
