@@ -96,7 +96,7 @@ Some platforms that could work are:
 [13]: https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerRegistration/periodicSync
 [14]: https://github.com/WICG/background-sync/tree/master/explainers
 [15]: https://www.chromestatus.com/feature/5689383275462656#:~:text=Periodic%20Background%20Sync%20is%20an,periodic%20intervals%20with%20network%20connectivity.&text=At%20present%2C%20sites%20can%20achieve,up%20a%20server%20for%20that.
-[16]: https://developer.chrome.com/extensions/migrating_to_service_workers?fbclid=IwAR1NG1gkx01-UEMLcYRSDB66Cp2Hv-ZBulFb7p09rPWf4Mk1ZXhEgr69Xb8
+[16]: https://developer.chrome.com/extensions/migrating_to_service_workers
 [17]: https://en.wikipedia.org/wiki/Google_Cloud_Messaging
 [18]: https://developers.google.com/web/fundamentals/codelabs/push-notifications
 [19]: https://youtu.be/ggUY0Q4f5ok
